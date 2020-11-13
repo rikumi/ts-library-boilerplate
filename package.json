@@ -15,7 +15,9 @@
   },
   "author": "rikumi",
   "license": "ISC",
-  "dependencies": {},
+  "dependencies": {
+    "core-js": "^2.6.11"
+  },
   "devDependencies": {
     "@babel/core": "^7.9.0",
     "@babel/plugin-transform-runtime": "^7.10.1",
